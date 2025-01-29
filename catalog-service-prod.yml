@@ -1,1 +1,1 @@
-polar.greeting.prod: "Welcome to the production catalog from the config server"
+polar.greeting: "Welcome to the production catalog from the config server"
