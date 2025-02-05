@@ -64,4 +64,5 @@ resilience4j:
             default:
                 timeout-duration: 5s
 
-polar.greeting: "Welcome to the catalog from a fresh config server"
+polar:
+    greeting: "Welcome to the Edge Service from the config server"
